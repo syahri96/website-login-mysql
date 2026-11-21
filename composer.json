@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php": "^8.1",
+    "ext-pdo": "*",
+    "ext-curl": "*",
+    "league/oauth2-client": "^2.7",
+    "league/oauth2-google": "^4.0",
+    "league/oauth2-facebook": "^2.2"
+  }
+}
